@@ -1,6 +1,4 @@
-### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  <img src="https://raw.githubusercontent.com/idurarjx/idurarjx/master/svg/pronouns/hehim.svg" >
-
-
+### Hi there, I'm [Hemant!](https://hemant.codes) 👋.  
 <br/>
 <a href="https://twitter.com/idurarjx">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
